@@ -1,0 +1,13 @@
+﻿[
+	{"Name":"FrmMain","Text":"WaSender - Whatsapp Bulk  Sender |Group Sender| Bot Reply","IsColumn":false},
+	{"Name":"FrmConfig","Text":"Message Setting","IsColumn":false},
+	{"Name":"gBoxCheck","Text":"Check Delay","IsColumn":false},
+	{"Name":"labWait","Text":"Wait","IsColumn":false},
+	{"Name":"labEvery","Text":"seconds after every","IsColumn":false},
+	{"Name":"labMsg","Text":"message","IsColumn":false},
+	{"Name":"labAfter","Text":"seconds after every message","IsColumn":false},
+	{"Name":"labMsg","Text":"message","IsColumn":false},
+	{"Name":"btnOk","Text":"Ok","IsColumn":false},
+	{"Name":"btnCancel","Text":"Cancel","IsColumn":false},
+	
+]

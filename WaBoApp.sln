@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaApp", "WaBoApp\WaApp.csproj", "{48E0B79A-6332-4B31-87A4-9419653AA180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What.Api", "What.Api\What.Api.csproj", "{25E9B28D-5590-44EF-A913-8BEC51730595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E0B79A-6332-4B31-87A4-9419653AA180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E0B79A-6332-4B31-87A4-9419653AA180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E0B79A-6332-4B31-87A4-9419653AA180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E0B79A-6332-4B31-87A4-9419653AA180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E9B28D-5590-44EF-A913-8BEC51730595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E9B28D-5590-44EF-A913-8BEC51730595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E9B28D-5590-44EF-A913-8BEC51730595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E9B28D-5590-44EF-A913-8BEC51730595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033EA1DF-917B-4953-B48D-F9BA60F86A64}
+	EndGlobalSection
+EndGlobal

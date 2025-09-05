@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!--Created by exporting the settings of a KryptonPalette instance.-->
+<!--For more information about Krypton visit https://github.com/Krypton-Suite/Standard-Toolkit-->
+<!--WARNING: Modifying this file may render it invalid for importing.-->
+<KryptonPalette Version="18" Generated="Friday, 25 March 2022, @14:17">
+  <Properties>
+    <FormStyles>
+      <FormCommon>
+        <StateActive>
+          <Back>
+            <Color1 Type="Color" Value="Green" />
+            <Color2 Type="Color" Value="0, 192, 0" />
+            <ColorStyle Type="PaletteColorStyle" Value="GlassNormalSimple" />
+            <ColorAlign Type="PaletteRectangleAlign" Value="Local" />
+          </Back>
+        </StateActive>
+      </FormCommon>
+    </FormStyles>
+    <HeaderStyles>
+      <HeaderSecondary>
+        <StateCommon>
+          <Back>
+            <Color1 Type="Color" Value="0, 192, 0" />
+            <Color2 Type="Color" Value="Green" />
+          </Back>
+        </StateCommon>
+      </HeaderSecondary>
+    </HeaderStyles>
+    <Ribbon>
+      <RibbonTab>
+        <StateCommon>
+          <BackColor2 Type="Color" Value="LimeGreen" />
+        </StateCommon>
+        <StateNormal>
+          <TextColor Type="Color" Value="DarkGreen" />
+        </StateNormal>
+        <StateTracking>
+          <TextColor Type="Color" Value="0, 192, 0" />
+        </StateTracking>
+      </RibbonTab>
+    </Ribbon>
+    <TabStyles>
+      <TabCommon>
+        <StateCommon>
+          <Back>
+            <Color1 Type="Color" Value="LightGreen" />
+          </Back>
+        </StateCommon>
+      </TabCommon>
+    </TabStyles>
+    <CustomisedKryptonPaletteFilePath Type="String" Value="C:\Users\Administrator\Desktop\green.xml" />
+    <BasePaletteMode Type="PaletteMode" Value="Office 365 - Silver" />
+    <BaseRenderMode Type="RendererMode" Value="Sparkle" />
+  </Properties>
+  <Images />
+</KryptonPalette>
