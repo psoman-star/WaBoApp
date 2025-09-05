@@ -79,7 +79,7 @@ English, العربية, azərbaycan, bosanski, Italiano, Dansk, Deutsch, Franç
 ## 📞 Online Support
 
 - 💬 WhatsApp: [+447999197856](http://wa.me/447999197856)
-- 💬 Telegram: [IonicSupport]([http://wa.me/447999197856](https://t.me/IonicSupport) 
+- 💬 Telegram: [IonicSupport](https://t.me/IonicSupport) 
 - 💻 Download:  https://bit.ly/wabulksenderresell
 
 ---
