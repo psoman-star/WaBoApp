@@ -1,7 +1,11 @@
 # WhatsApp Bulk Sender + Group Sender + Auto Reply App
 
-🚀 **Version 3.5.3** (Last updated: 06 September 2025)  
-Send unlimited bulk WhatsApp messages, manage groups, extract members, set auto-replies, and generate unlimited licenses with the included KeyGen App.  
+ 
+This all-in-one WhatsApp Bulk Sender and Group Sender is designed to help you manage large-scale WhatsApp campaigns efficiently and in a controlled manner.
+It supports high-volume message sending, group messaging, scheduled auto-replies, and an intelligent chatbot system for automated conversations.
+
+In addition, the software includes a built-in License Key Generator, allowing you to easily generate, reset, and manage license keys for your customers.
+This makes it suitable for product distribution, client management, and long-term license control from a single platform.
 
 ---
 
