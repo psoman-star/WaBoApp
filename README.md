@@ -84,11 +84,12 @@ English, العربية, azərbaycan, bosanski, Italiano, Dansk, Deutsch, Franç
 
 - 💬 WhatsApp: [+447999197856](http://wa.me/447999197856)
 - 💬 Telegram: [IonicSupport](https://t.me/IonicSupport) 
-- 💻 Download:  https://bit.ly/wabulksenderresell
+- 💻 Download:   https://codecanyon.net/item/whatsapp-bulk-sender-tools/34125850
 
 ---
 
-## 📹 Screenstho
+## 📹 Screensthot
+
 <img src="https://i.ibb.co/dfXQpr2/feature.png" alt="Whatsapp Bulk Sender + Group Sender + Auto Reply App + License KeyGen App +License Generate Key App feature" />
 <img src="https://i.ibb.co/0nHdkrf/000.png" alt="Whatsapp Bulk Sender + Group Sender + Auto Reply +License KeyGen App-Full Reseller bulk sender, bulk whatsapp, bulk whatsapp snder, whatsapp, WhatsApp bulk invite, whatsapp bulk message" />
 <img src="https://i.ibb.co/rM328Tq/licennew.png" alt="Wh, WhatsApp bulk invite, whatsapp bulk message, whatsapp bulk sender, whatsapp filter, whatsapp market, whatsapp sender, whatsender" />
